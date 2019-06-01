@@ -3,6 +3,8 @@
 
 <h1><a href="https://gatsby-coffe-kev.netlify.com/">https://gatsby-coffe-kev.netlify.com/</a></h1>
 
+<p>attribution to: coding addict youtube channel</p>
+
 <p align="center">
   <a href="https://www.gatsbyjs.org">
     <img alt="Gatsby" src="https://www.gatsbyjs.org/monogram.svg" width="60" />
